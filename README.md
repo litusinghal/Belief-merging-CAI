@@ -46,6 +46,9 @@ The simulation is based on a **10×10 discretized grid world** and involves the 
 
 ---
 
+![System Architecture](architecture.png)
+
+
 ## 🔬 Key Techniques
 
 ### 🧠 Generalized Chernoff Fusion
